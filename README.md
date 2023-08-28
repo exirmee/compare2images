@@ -10,7 +10,7 @@ This script requires the OpenCV library and Python installed on your system.
 
 ## Screenshots
 
-![Screenshot](screenshot.jpg)
+![Screenshot](ScreenShot.jpg)
 *Fig. 1: The Image Difference Comparator in action, showing original images, difference image, and thresholded difference image.*
 
 ## Contact
